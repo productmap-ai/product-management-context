@@ -103,4 +103,4 @@ Every workshop needs:
 
 - [communication.md](./communication.md)
 - [decision-making.md](./decision-making.md)
-- [../../02_generation/user-research/problem-framing.md](../../02_generation/user-research/problem-framing.md)
+- [Problem Framing](../../02_generation/user-research/problem-framing.md)

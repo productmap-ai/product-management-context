@@ -63,5 +63,5 @@ Different stakeholders need different information at different cadences. Tailor 
 ## Related
 
 - [prioritization.md](./prioritization.md)
-- [../../05_people/communication/communication.md](../../05_people/communication/communication.md)
-- [../../05_people/communication/decision-making.md](../../05_people/communication/decision-making.md)
+- [Communication](../../05_people/communication/communication.md)
+- [Decision Making](../../05_people/communication/decision-making.md)

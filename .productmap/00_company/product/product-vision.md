@@ -1,6 +1,6 @@
 # Product Vision — [Your Product Name]
 
-> [Updated: YYYY-MM] — Strategy / MVP & Roadmap
+> [Updated: YYYY-MM] — Company / Product
 
 A product vision states the long-term change the product creates in the world, for whom, and why it will win. It aligns the team and guides roadmap trade-offs: anything on the roadmap should move the product toward the vision.
 
@@ -64,5 +64,7 @@ Fill in this context file with the **[Define strategy and roadmap](https://app.p
 
 ## Related
 
-- [roadmap.md](./roadmap.md)
-- [../product-market-fit/product-market-fit.md](../product-market-fit/product-market-fit.md)
+- [onepager.md](./onepager.md)
+- [value-proposition.md](./value-proposition.md)
+- [../../01_strategy/mvp-roadmap/roadmap.md](../../01_strategy/mvp-roadmap/roadmap.md)
+- [../../01_strategy/product-market-fit/product-market-fit.md](../../01_strategy/product-market-fit/product-market-fit.md)

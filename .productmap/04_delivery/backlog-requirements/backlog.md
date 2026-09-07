@@ -61,5 +61,5 @@ Fill in this context file with the **[Prioritize product backlog](https://app.pr
 ## Related
 
 - [prioritization.md](./prioritization.md)
-- [../../01_strategy/mvp-roadmap/roadmap.md](../../01_strategy/mvp-roadmap/roadmap.md)
-- [../../04_delivery/agile-process/sprint-planning.md](../../04_delivery/agile-process/sprint-planning.md)
+- [Roadmap](../../01_strategy/mvp-roadmap/roadmap.md)
+- [Sprint Planning](../../04_delivery/agile-process/sprint-planning.md)

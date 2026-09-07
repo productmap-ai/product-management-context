@@ -108,5 +108,5 @@ Fill in this context file with the **[Make data-driven decisions](https://app.pr
 ## Related
 
 - [kpis-metrics.md](./kpis-metrics.md)
-- [../../01_strategy/okrs/okrs.md](../../01_strategy/okrs/okrs.md)
-- [../../04_delivery/agile-process/sprint-planning.md](../../04_delivery/agile-process/sprint-planning.md)
+- [Okrs](../../01_strategy/okrs/okrs.md)
+- [Sprint Planning](../../04_delivery/agile-process/sprint-planning.md)

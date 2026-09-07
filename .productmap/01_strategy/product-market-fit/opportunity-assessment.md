@@ -59,5 +59,5 @@ Fill in this context file with the **[Product discovery to solution](https://app
 ## Related
 
 - [product-market-fit.md](./product-market-fit.md)
-- [../../02_generation/user-research/problem-framing.md](../../02_generation/user-research/problem-framing.md)
-- [../../04_delivery/backlog-requirements/prioritization.md](../../04_delivery/backlog-requirements/prioritization.md)
+- [Problem Framing](../../02_generation/user-research/problem-framing.md)
+- [Prioritization](../../04_delivery/backlog-requirements/prioritization.md)

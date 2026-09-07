@@ -55,3 +55,13 @@
 
 - Unlike [competitor / category], [Product Name] focuses on [differentiator] rather than [what you deliberately exclude].
 - Positions itself as [positioning statement] that complements [tools your users already use].
+
+## Product Map AI Agent
+
+Fill in this context file with the **[Define strategy and roadmap](https://app.productmap.io/agents/product-strategy-roadmap)** agent on [Product Map](https://app.productmap.io/agents). Use it to draft or refine the one-liner, core components, target users, and differentiated value proposition.
+
+## Related
+
+- [value-proposition.md](./value-proposition.md)
+- [product-vision.md](./product-vision.md)
+- [../../01_strategy/competitors/competitor-matrix.md](../../01_strategy/competitors/competitor-matrix.md)

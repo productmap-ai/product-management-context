@@ -78,5 +78,5 @@ Fill in this context file with the **[Enable team collaboration](https://app.pro
 
 - [communication.md](./communication.md)
 - [workshops.md](./workshops.md)
-- [../../04_delivery/backlog-requirements/prioritization.md](../../04_delivery/backlog-requirements/prioritization.md)
-- [../../09_templates/adr-template.md](../../09_templates/adr-template.md)
+- [Prioritization](../../04_delivery/backlog-requirements/prioritization.md)
+- [Adr Template](../../09_templates/adr-template.md)

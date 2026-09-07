@@ -78,5 +78,5 @@ Fill in this context file with the **[Plan and run user research](https://app.pr
 ## Related
 
 - [user-research.md](./user-research.md)
-- [../../08_frameworks/jobs-to-be-done.md](../../08_frameworks/jobs-to-be-done.md)
-- [../../01_strategy/product-market-fit/opportunity-assessment.md](../../01_strategy/product-market-fit/opportunity-assessment.md)
+- [Jobs To Be Done](../../08_frameworks/jobs-to-be-done.md)
+- [Opportunity Assessment](../../01_strategy/product-market-fit/opportunity-assessment.md)

@@ -79,5 +79,5 @@ Fill in this context file with the **[Prioritize product backlog](https://app.pr
 ## Related
 
 - [agile-process.md](./agile-process.md)
-- [../../04_delivery/backlog-requirements/backlog.md](../../04_delivery/backlog-requirements/backlog.md)
-- [../../03_analysis/kpis-metrics/metrics-tracking.md](../../03_analysis/kpis-metrics/metrics-tracking.md)
+- [Backlog](../../04_delivery/backlog-requirements/backlog.md)
+- [Metrics Tracking](../../03_analysis/kpis-metrics/metrics-tracking.md)

@@ -85,5 +85,5 @@ Fill in this context file with the **[Prioritize product backlog](https://app.pr
 ## Related
 
 - [backlog.md](./backlog.md)
-- [../../08_frameworks/rice.md](../../08_frameworks/rice.md)
-- [../../01_strategy/mvp-roadmap/roadmap.md](../../01_strategy/mvp-roadmap/roadmap.md)
+- [Rice](../../08_frameworks/rice.md)
+- [Roadmap](../../01_strategy/mvp-roadmap/roadmap.md)

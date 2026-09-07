@@ -31,5 +31,5 @@ Fill in this context file with the **[Product discovery to solution](https://app
 
 ## Related Frameworks
 
-- [01_strategy/mvp-roadmap/product-vision.md](../../01_strategy/mvp-roadmap/product-vision.md)
+- [Product Vision](../../00_company/product/product-vision.md)
 - [03_analysis/analytics/analytics.md](../../03_analysis/analytics/analytics.md)

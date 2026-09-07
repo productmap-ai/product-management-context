@@ -74,5 +74,5 @@ Fill in this context file with the **[Define strategy and roadmap](https://app.p
 
 ## Related
 
-- [product-vision.md](./product-vision.md)
-- [../../04_delivery/backlog-requirements/backlog.md](../../04_delivery/backlog-requirements/backlog.md)
+- [Product Vision](../../00_company/product/product-vision.md)
+- [Backlog](../../04_delivery/backlog-requirements/backlog.md)
