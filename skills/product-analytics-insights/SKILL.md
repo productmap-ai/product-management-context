@@ -1,1 +1,0 @@
-../../.gemini/skills/product-analytics-insights/SKILL.md

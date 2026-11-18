@@ -1,1 +1,0 @@
-../../.gemini/skills/market-competitive-brief/SKILL.md

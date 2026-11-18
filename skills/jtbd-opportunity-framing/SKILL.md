@@ -1,1 +1,0 @@
-../../.gemini/skills/jtbd-opportunity-framing/SKILL.md

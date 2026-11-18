@@ -1,1 +1,0 @@
-../../.gemini/skills/ai-product-feature-spec/SKILL.md

@@ -68,11 +68,11 @@ Each pass gets faster when knowledge compounds and context stays clean. When out
 
 ## Agent skills ([skills.sh](https://skills.sh/) ecosystem)
 
-This repository is structured so the open [`skills`](https://github.com/vercel-labs/skills) CLI can discover installable skills: each skill is a folder with a `SKILL.md` that includes YAML frontmatter (`name` and `description` as plain strings). Skills live under [`.claude/skills/`](.claude/skills/) (Claude Code), [`.codex/skills/`](.codex/skills/) (Codex), and [`.gemini/skills/`](.gemini/skills/) (Gemini CLI). The [`skills/`](skills/) directory mirrors Gemini skills for the ecosystem: each entry is a **real folder** (not a symlink to a folder) containing `SKILL.md` and `subagent-prompt.md` as **file** symlinks into [`.gemini/skills/<name>/`](.gemini/skills/), because the CLI only treats **directory** dirents as skill packages—symlinked directories are skipped.
+This repository is structured so the open [`skills`](https://github.com/vercel-labs/skills) CLI can discover installable skills: each skill is a folder with a `SKILL.md` that includes YAML frontmatter (`name` and `description` as plain strings). Skills live under [`.claude/skills/`](.claude/skills/) (Claude Code), [`.codex/skills/`](.codex/skills/) (Codex), and [`.gemini/skills/`](.gemini/skills/) (Gemini CLI). The CLI scans `.claude/skills/` and `.codex/skills/` on its own. [`skills.sh.json`](skills.sh.json) adds `.gemini/skills/` to its search paths, so the Gemini skills install from their real files (`SKILL.md` plus `subagent-prompt.md`).
 
 Every `SKILL.md` ends with a "Related on Product Map" section that links the matching [agents](https://app.productmap.io/agents) and [workflows](https://app.productmap.io/workflows), so you can run the same job on your own product context.
 
-A healthy clone should report **30** discoverable skills (10 Claude + 10 Codex + 10 Gemini mirrored under `skills/`). After you publish the repo to **public GitHub**, others can install with `npx skills add owner/repo`; [skills.sh](https://skills.sh/) lists the broader registry and ranks by anonymous install telemetry—full-text search there can lag behind a working local `npx skills add . --list`.
+A healthy clone should report **31** discoverable skills (11 Claude + 10 Codex + 10 Gemini). After you publish the repo to **public GitHub**, others can install with `npx skills add owner/repo`; [skills.sh](https://skills.sh/) lists the broader registry and ranks by anonymous install telemetry—full-text search there can lag behind a working local `npx skills add . --list`.
 
 ```bash
 # List skills the CLI discovers from this repo (run from a clone)
@@ -88,7 +88,7 @@ npx skills add YOUR_GITHUB_USERNAME/product-management-context
 - [`AGENTS.md`](AGENTS.md) and [`CLAUDE.md`](CLAUDE.md). Entry points that send agents to the index and house rules.
 - Skills. Repeatable PM jobs with steps and guardrails: [`.claude/skills/`](.claude/skills/) for Claude Code, [`.gemini/skills/`](.gemini/skills/) for Gemini CLI (see [`.gemini/README.md`](.gemini/README.md)).
 - Codex skills. Repo-local PM skills for Codex: [`.codex/skills/`](.codex/skills/) (see [`.codex/skills/README.md`](.codex/skills/README.md)).
-- [`skills/`](skills/). Symlinks for Gemini skill folders so the same `SKILL.md` files are visible to tools that only scan a top-level `skills/` directory.
+- [`skills.sh.json`](skills.sh.json). Tells the `skills` CLI to also look for skills under `.gemini/skills/`.
 
 If you edit `.productmap/` by hand, treat it as drift from the platform unless you mean to own that change.
 

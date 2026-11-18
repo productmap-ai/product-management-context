@@ -1,1 +1,0 @@
-../../.gemini/skills/executive-stakeholder-briefing/SKILL.md

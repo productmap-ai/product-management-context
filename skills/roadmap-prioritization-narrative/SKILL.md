@@ -1,1 +1,0 @@
-../../.gemini/skills/roadmap-prioritization-narrative/SKILL.md
