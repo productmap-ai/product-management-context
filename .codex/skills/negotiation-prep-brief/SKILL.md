@@ -166,3 +166,9 @@ End with: “Questions for the requester” (3–8 questions that, if answered, 
 - Stakeholder map identifies authority, incentives, and blockers; comms plan has owners and dates.
 - 1-page brief is genuinely meeting-ready (fits on one page when printed; no deep background).
 - Ends with crisp questions that would materially change targets or the walk-away.
+
+## Related on Product Map
+
+- Agent: [Enable team collaboration](https://app.productmap.io/agents/team-collaboration-leadership). Improve how teams lead and communicate.
+
+More AI PM agents from Product Map: https://www.productmap.io/

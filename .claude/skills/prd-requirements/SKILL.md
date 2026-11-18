@@ -333,3 +333,10 @@ This prevents “silent decisions” made only in implementation.
 - **Hurts**: inventing users, metrics, compliance constraints, or “industry standard” numbers without sources.
 
 If the model proposes facts, mark them **UNVERIFIED** unless the user confirms or repo data supports them.
+
+## Related on Product Map
+
+- Agent: [Write PRD and feature spec](https://app.productmap.io/agents/prd-specification). Turn features into specs ready for engineering.
+- Workflow: [Backlog to PRD and release](https://app.productmap.io/workflows/backlog-to-prd-and-release). Prioritize the backlog, turn the top item into an engineering-ready PRD, then draft the release notes for the day it ships.
+
+More AI PM agents from Product Map: https://www.productmap.io/

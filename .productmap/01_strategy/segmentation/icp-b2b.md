@@ -65,3 +65,5 @@ Fill in this context file with the **[Define ICP and segments](https://app.produ
 
 - [icp-b2c.md](./icp-b2c.md)
 - [segmentation.md](./segmentation.md)
+
+More AI PM agents from Product Map: https://www.productmap.io/

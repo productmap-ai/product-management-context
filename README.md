@@ -4,6 +4,10 @@ This repository is your product management knowledge base and agentic workspace.
 
 The [`.productmap/`](.productmap/) folder follows the same taxonomy you get from [Product Map](https://www.productmap.io/) when you sync or mirror the platform. On top of that tree, [AGENTS.md](AGENTS.md), [CLAUDE.md](CLAUDE.md), and [GEMINI.md](GEMINI.md) spell out how agents should behave; repeatable workflows live under [`.claude/skills/`](.claude/skills/) (Claude Code) and [`.gemini/skills/`](.gemini/skills/) (Gemini-oriented). You can point Claude, Codex, Gemini, and Cursor at one versioned source of truth instead of restarting context in every tool.
 
+> **[Product Map](https://www.productmap.io/) is the AI operating system for product decisions.** Product context in. PM decisions out. Your coding agents build them.
+>
+> [Website](https://www.productmap.io/) · [Web app](https://app.productmap.io/) · [Install the plugin for Cursor, VS Code, and Antigravity](https://www.productmap.io/product-management-agents-for-cursor-vscode)
+
 ## Get started with this repository
 
 **What you are building.** Product Map AI and the `.productmap/` tree are your context engineering and knowledge layer: curated lifecycle topics, templates, and frameworks in files agents can read. Cursor, Claude Code, Codex, and Gemini CLI sit on top as different runners; you pick the tool for the job and keep one repo as the handoff surface.
@@ -14,7 +18,8 @@ The [`.productmap/`](.productmap/) folder follows the same taxonomy you get from
 - **Claude Code** for skill-driven PM runs. The plugin reads [CLAUDE.md](CLAUDE.md) and routes recurring jobs through the right skill under [`.claude/skills/`](.claude/skills/) instead of one-off prompts.
 - **Codex (inside Cursor)** when you want Codex-specific behavior and repo-local skills. Keep initiative outputs under `.productmap/00_company/product/` and raw inputs under `.productmap/10_data/` as [AGENTS.md](AGENTS.md) describes.
 - **Gemini CLI** for jobs that need long-context synthesis, structured multi-section docs, or batch turns over the same tree. Install the Gemini CLI, open terminal in Cursor, `cd` to this repo, and rely on [GEMINI.md](GEMINI.md) plus [`.gemini/skills/`](.gemini/skills/) (see [`.gemini/README.md`](.gemini/README.md)). Optional: [`.gemini/settings.json`](.gemini/settings.json) for CLI defaults.
-- **Product Map AI** ([app](https://app.productmap.io/)) to align assessments, learning paths, and copilots with the same map you mirror into `.productmap/`. Sync or copy from the platform when you want the repo to stay the single file-based source of truth.
+- **Product Map plugin** ([install](https://www.productmap.io/product-management-agents-for-cursor-vscode)) to run PM agents inside Cursor, VS Code, and Antigravity on this repo, next to Claude Code, Codex, and Gemini CLI. Agents read your product context before every run and propose edits as diffs you accept or discard.
+- **Product Map AI** ([app](https://app.productmap.io/)) to run the same [agents](https://app.productmap.io/agents) and [workflows](https://app.productmap.io/workflows) in the browser, on the map you mirror into `.productmap/`. Sync or copy from the platform when you want the repo to stay the single file-based source of truth.
 
 **Steps**
 
@@ -65,6 +70,8 @@ Each pass gets faster when knowledge compounds and context stays clean. When out
 
 This repository is structured so the open [`skills`](https://github.com/vercel-labs/skills) CLI can discover installable skills: each skill is a folder with a `SKILL.md` that includes YAML frontmatter (`name` and `description` as plain strings). Skills live under [`.claude/skills/`](.claude/skills/) (Claude Code), [`.codex/skills/`](.codex/skills/) (Codex), and [`.gemini/skills/`](.gemini/skills/) (Gemini CLI). The [`skills/`](skills/) directory mirrors Gemini skills for the ecosystem: each entry is a **real folder** (not a symlink to a folder) containing `SKILL.md` and `subagent-prompt.md` as **file** symlinks into [`.gemini/skills/<name>/`](.gemini/skills/), because the CLI only treats **directory** dirents as skill packages—symlinked directories are skipped.
 
+Every `SKILL.md` ends with a "Related on Product Map" section that links the matching [agents](https://app.productmap.io/agents) and [workflows](https://app.productmap.io/workflows), so you can run the same job on your own product context.
+
 A healthy clone should report **30** discoverable skills (10 Claude + 10 Codex + 10 Gemini mirrored under `skills/`). After you publish the repo to **public GitHub**, others can install with `npx skills add owner/repo`; [skills.sh](https://skills.sh/) lists the broader registry and ranks by anonymous install telemetry—full-text search there can lag behind a working local `npx skills add . --list`.
 
 ```bash
@@ -85,16 +92,32 @@ npx skills add YOUR_GITHUB_USERNAME/product-management-context
 
 If you edit `.productmap/` by hand, treat it as drift from the platform unless you mean to own that change.
 
-## Product Map AI
+## Product Map: the AI operating system for product decisions
 
-[Product Map AI](https://app.productmap.io/) is where you turn structured product management context into day-to-day help. You attach your product context so assistants stay aligned with your situation instead of generic advice. The copilot draws on the same topic map and materials that experts curate across the lifecycle, so AI help stays grounded in proven approaches, not stray prompts.
+AI-native teams ship fast. Engineering and design already have AI agents. Product does not. The bottleneck has moved from shipping to deciding what to build, for whom, and why.
 
-You get PM-oriented assistants for real tasks (strategy, discovery, delivery, collaboration, data-informed decisions, career support), plus skills assessment, gap analysis, growth plans, progress tracking, and a knowledge hub that stays tied to those resources. Use it when you want the app experience: assessments, plans, and assistants that sit on top of industry-led expert content, with your context in the loop.
+[Product Map](https://www.productmap.io/) is the agentic product management operating system for AI-native product teams. Connect your product context once. PM agents then handle strategy, specs, pricing, and go-to-market, grounded in your product and proven PM practice. Decisions go straight to your coding agents to build.
 
-## About Product Map
+Three pillars hold it together:
 
-[Product Map](https://www.productmap.io/) is the **product management copilot to guide your decisions.** It offers tools and resources for the entire product lifecycle, built so you can learn, build, and grow as a product person.
+- **Multi-user, multi-agent.** People and agents share one environment, organized on top of your product context. Everybody works from the same picture instead of isolated chats.
+- **Agentic workflows.** Agents perform PM tasks chained in workflows, all grounded in your product context instead of generic prompts.
+- **Knowledge-backed.** Every decision draws on industry-standard frameworks and resources from top PMs, right when you make it.
 
-## Product Map
+Where you can run it:
 
-Product Map is a community-built home for product work. It maps the full PM lifecycle into curated topics, resources, and frameworks (strategy, discovery, analysis, delivery, people). You get structured paths to learn and apply. Together, the map and your repo answer how you learn, build, and ship product work with a repeatable system.
+- **In your IDE.** The [Product Map plugin](https://www.productmap.io/product-management-agents-for-cursor-vscode) runs PM agents in Cursor, VS Code, and Antigravity, next to your coding agents.
+- **In the browser.** The [web app](https://app.productmap.io/) has the full catalog of [AI agents](https://app.productmap.io/agents) and [AI workflows](https://app.productmap.io/workflows) that take your product from strategy through delivery to go-to-market.
+- **In this repo.** The `.productmap/` tree and the skills here are the open, file-based version of the same context layer.
+
+## Install Product Map in Cursor, VS Code, or Antigravity
+
+**[Install the plugin](https://www.productmap.io/product-management-agents-for-cursor-vscode)** and turn your IDE into a PM workspace that knows your product.
+
+1. Install Product Map for Cursor, VS Code, or Antigravity from the [plugin page](https://www.productmap.io/product-management-agents-for-cursor-vscode), and open it in the workspace that holds your product context repo. A clone of this repository works.
+2. Sign in with your Product Map account to set up the project knowledge base and connect it to Git.
+3. Pick the agents you need, review their output, and push the updated artifacts to your repository.
+
+The plugin is free, and a free account connects your project. It works in Cursor, VS Code 1.100 or later, and Antigravity, alongside Claude Code, Codex, Gemini CLI, and GitHub Copilot. Agents propose changes as diffs, and nothing is committed until you accept.
+
+More AI PM agents from Product Map: https://www.productmap.io/

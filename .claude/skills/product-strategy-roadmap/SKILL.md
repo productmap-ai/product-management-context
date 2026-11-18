@@ -297,3 +297,11 @@ Cross-ref: when an outcome becomes a buildable scope, draft with `.productmap/09
 - Language matches **stage** (learning vs predictability); no false precision.
 - Repo paths consulted are cited so the user can audit your reasoning.
 - Next recommended artifact is clear (one-pager vs N/N/L vs outcome roadmap vs PRD).
+
+## Related on Product Map
+
+- Agent: [Define strategy and roadmap](https://app.productmap.io/agents/product-strategy-roadmap). Improve your product strategy and roadmap.
+- Agent: [Scope and challenge MVP](https://app.productmap.io/agents/mvp-scope-decision). Cut scope, build the backlog, pick the stack.
+- Workflow: [Product idea to MVP scope](https://app.productmap.io/workflows/product-idea-to-mvp-scope). Challenge the product idea, set the strategy and roadmap, then cut the MVP down to what proves your positioning.
+
+More AI PM agents from Product Map: https://www.productmap.io/

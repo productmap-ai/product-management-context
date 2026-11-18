@@ -63,3 +63,5 @@ Fill in this context file with the **[Prioritize product backlog](https://app.pr
 - [prioritization.md](./prioritization.md)
 - [Roadmap](../../01_strategy/mvp-roadmap/roadmap.md)
 - [Sprint Planning](../../04_delivery/agile-process/sprint-planning.md)
+
+More AI PM agents from Product Map: https://www.productmap.io/

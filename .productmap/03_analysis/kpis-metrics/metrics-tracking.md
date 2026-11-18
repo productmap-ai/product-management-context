@@ -110,3 +110,5 @@ Fill in this context file with the **[Make data-driven decisions](https://app.pr
 - [kpis-metrics.md](./kpis-metrics.md)
 - [Okrs](../../01_strategy/okrs/okrs.md)
 - [Sprint Planning](../../04_delivery/agile-process/sprint-planning.md)
+
+More AI PM agents from Product Map: https://www.productmap.io/

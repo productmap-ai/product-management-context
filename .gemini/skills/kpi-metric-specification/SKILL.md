@@ -19,3 +19,9 @@ description: Defines KPIs and product metrics with clear formulas, segments, and
 ## Delegation
 
 Use [subagent-prompt.md](subagent-prompt.md) for a sub-agent that produces metric specs and trees.
+
+## Related on Product Map
+
+- Agent: [Make data-driven decisions](https://app.productmap.io/agents/data-driven-product-decisions). Use KPIs, analytics, and finance to drive product.
+
+More AI PM agents from Product Map: https://www.productmap.io/

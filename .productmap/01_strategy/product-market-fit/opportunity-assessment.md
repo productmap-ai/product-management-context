@@ -61,3 +61,5 @@ Fill in this context file with the **[Product discovery to solution](https://app
 - [product-market-fit.md](./product-market-fit.md)
 - [Problem Framing](../../02_generation/user-research/problem-framing.md)
 - [Prioritization](../../04_delivery/backlog-requirements/prioritization.md)
+
+More AI PM agents from Product Map: https://www.productmap.io/

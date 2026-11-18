@@ -117,3 +117,10 @@ Output (Markdown), in this order:
 - Includes at least one non-1:1 test approach (e.g. smoke test, landing page).
 - Avoids interview scripts, talk tracks, and question lists entirely.
 - References relevant repo knowledge via clickable paths (at minimum `.productmap/index.md`).
+
+## Related on Product Map
+
+- Agent: [Validate startup idea](https://app.productmap.io/agents/startup-idea-validation). Challenge your startup idea and shape vision.
+- Workflow: [Product idea to MVP scope](https://app.productmap.io/workflows/product-idea-to-mvp-scope). Challenge the product idea, set the strategy and roadmap, then cut the MVP down to what proves your positioning.
+
+More AI PM agents from Product Map: https://www.productmap.io/

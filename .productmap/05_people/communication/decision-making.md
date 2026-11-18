@@ -80,3 +80,5 @@ Fill in this context file with the **[Enable team collaboration](https://app.pro
 - [workshops.md](./workshops.md)
 - [Prioritization](../../04_delivery/backlog-requirements/prioritization.md)
 - [Adr Template](../../09_templates/adr-template.md)
+
+More AI PM agents from Product Map: https://www.productmap.io/

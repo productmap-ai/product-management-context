@@ -19,3 +19,9 @@ description: Turns product context into concise executive updates, decision memo
 ## Delegation
 
 Use [subagent-prompt.md](subagent-prompt.md) for a sub-agent that specializes in stakeholder-ready briefings.
+
+## Related on Product Map
+
+- Agent: [Enable team collaboration](https://app.productmap.io/agents/team-collaboration-leadership). Improve how teams lead and communicate.
+
+More AI PM agents from Product Map: https://www.productmap.io/

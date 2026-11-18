@@ -266,3 +266,11 @@ Navigation entrypoint when unsure where content lives: `.productmap/index.md`.
 - Guides produce **behavioral evidence**, not opinion polls.
 - Synthesis states **confidence** and **next validation** for each major claim.
 - Recommendations trace to **observations** stakeholders can audit.
+
+## Related on Product Map
+
+- Agent: [Plan and run user research](https://app.productmap.io/agents/user-research-planner). Pick the right method and build a research plan.
+- Agent: [Plan customer interviews](https://app.productmap.io/agents/customer-interview-planner). Get a problem, solution, or PMF interview plan.
+- Workflow: [User research to opportunities](https://app.productmap.io/workflows/user-research-to-opportunities). Plan the research, write the interview guide, then turn what customers actually said into product opportunities.
+
+More AI PM agents from Product Map: https://www.productmap.io/

@@ -81,3 +81,5 @@ Fill in this context file with the **[Prioritize product backlog](https://app.pr
 - [agile-process.md](./agile-process.md)
 - [Backlog](../../04_delivery/backlog-requirements/backlog.md)
 - [Metrics Tracking](../../03_analysis/kpis-metrics/metrics-tracking.md)
+
+More AI PM agents from Product Map: https://www.productmap.io/

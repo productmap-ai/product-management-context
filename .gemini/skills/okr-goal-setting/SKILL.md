@@ -19,3 +19,10 @@ description: Drafts and critiques OKRs using the repo OKR template and framework
 ## Delegation
 
 Use [subagent-prompt.md](subagent-prompt.md) for a sub-agent that owns full OKR drafting and critique.
+
+## Related on Product Map
+
+- Agent: [Define strategy and roadmap](https://app.productmap.io/agents/product-strategy-roadmap). Improve your product strategy and roadmap.
+- Agent: [Make data-driven decisions](https://app.productmap.io/agents/data-driven-product-decisions). Use KPIs, analytics, and finance to drive product.
+
+More AI PM agents from Product Map: https://www.productmap.io/

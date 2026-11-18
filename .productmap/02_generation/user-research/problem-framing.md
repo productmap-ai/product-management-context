@@ -80,3 +80,5 @@ Fill in this context file with the **[Plan and run user research](https://app.pr
 - [user-research.md](./user-research.md)
 - [Jobs To Be Done](../../08_frameworks/jobs-to-be-done.md)
 - [Opportunity Assessment](../../01_strategy/product-market-fit/opportunity-assessment.md)
+
+More AI PM agents from Product Map: https://www.productmap.io/

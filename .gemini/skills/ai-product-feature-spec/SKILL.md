@@ -19,3 +19,10 @@ description: Specifies AI/ML product behavior, evaluation, safety, and data hand
 ## Delegation
 
 Use [subagent-prompt.md](subagent-prompt.md) for a sub-agent that specializes in AI feature specs (plays to strong structured + prompt-design reasoning).
+
+## Related on Product Map
+
+- Agent: [Write PRD and feature spec](https://app.productmap.io/agents/prd-specification). Turn features into specs ready for engineering.
+- Workflow: [Backlog to PRD and release](https://app.productmap.io/workflows/backlog-to-prd-and-release). Prioritize the backlog, turn the top item into an engineering-ready PRD, then draft the release notes for the day it ships.
+
+More AI PM agents from Product Map: https://www.productmap.io/

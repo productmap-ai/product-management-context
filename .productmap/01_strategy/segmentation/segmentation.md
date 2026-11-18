@@ -34,3 +34,5 @@ Fill in this context file with the **[Define ICP and segments](https://app.produ
 
 - [08_frameworks/jobs-to-be-done.md](../../08_frameworks/jobs-to-be-done.md)
 - [01_strategy/product-market-fit/product-market-fit.md](../product-market-fit/product-market-fit.md)
+
+More AI PM agents from Product Map: https://www.productmap.io/

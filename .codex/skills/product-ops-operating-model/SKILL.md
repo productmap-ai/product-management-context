@@ -196,3 +196,9 @@ Output format (Markdown):
 - Rollout plan includes: pilot scope, training, migration steps, adoption metrics, and dated checkpoints.
 - Assumptions are labeled; unknowns become explicit “Open questions”.
 - Includes a “Sources” section listing repo file paths read.
+
+## Related on Product Map
+
+- Agent: [Enable team collaboration](https://app.productmap.io/agents/team-collaboration-leadership). Improve how teams lead and communicate.
+
+More AI PM agents from Product Map: https://www.productmap.io/

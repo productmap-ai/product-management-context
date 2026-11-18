@@ -19,3 +19,11 @@ description: Builds roadmap narratives that combine themes, sequencing, and prio
 ## Delegation
 
 Use [subagent-prompt.md](subagent-prompt.md) for a sub-agent that produces stakeholder-ready roadmap prose and tables.
+
+## Related on Product Map
+
+- Agent: [Define strategy and roadmap](https://app.productmap.io/agents/product-strategy-roadmap). Improve your product strategy and roadmap.
+- Agent: [Prioritize product backlog](https://app.productmap.io/agents/backlog-prioritization). Break down backlog stories into prioritized tasks.
+- Workflow: [Product idea to MVP scope](https://app.productmap.io/workflows/product-idea-to-mvp-scope). Challenge the product idea, set the strategy and roadmap, then cut the MVP down to what proves your positioning.
+
+More AI PM agents from Product Map: https://www.productmap.io/

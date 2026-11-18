@@ -87,3 +87,5 @@ Fill in this context file with the **[Prioritize product backlog](https://app.pr
 - [backlog.md](./backlog.md)
 - [Rice](../../08_frameworks/rice.md)
 - [Roadmap](../../01_strategy/mvp-roadmap/roadmap.md)
+
+More AI PM agents from Product Map: https://www.productmap.io/

@@ -201,3 +201,10 @@ Output format (Markdown):
 - Security: ensure no secrets in prompts/logs; define how to handle tokens/keys.
 - Abuse and misuse: define misuse scenarios and anti-abuse guardrails (rate limits, friction, monitoring).
 - Monitoring: define post-launch signals for safety regressions and incident response steps.
+
+## Related on Product Map
+
+- Agent: [Write PRD and feature spec](https://app.productmap.io/agents/prd-specification). Turn features into specs ready for engineering.
+- Workflow: [Backlog to PRD and release](https://app.productmap.io/workflows/backlog-to-prd-and-release). Prioritize the backlog, turn the top item into an engineering-ready PRD, then draft the release notes for the day it ships.
+
+More AI PM agents from Product Map: https://www.productmap.io/

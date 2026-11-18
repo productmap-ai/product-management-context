@@ -35,3 +35,5 @@ Fill in this context file with the **[Enable team collaboration](https://app.pro
 
 - [05_people/negotiation/negotiation.md](../negotiation/negotiation.md)
 - [09_templates/one-on-one-template.md](../../09_templates/one-on-one-template.md)
+
+More AI PM agents from Product Map: https://www.productmap.io/

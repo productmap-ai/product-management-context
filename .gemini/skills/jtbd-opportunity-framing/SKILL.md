@@ -19,3 +19,10 @@ description: Frames problems and opportunities using Jobs-to-be-Done and related
 ## Delegation
 
 Use [subagent-prompt.md](subagent-prompt.md) for a sub-agent focused on JTBD-aligned opportunity docs.
+
+## Related on Product Map
+
+- Agent: [Product discovery to solution](https://app.productmap.io/agents/product-discovery-ideation). Generate ideas for MVP and growth strategies.
+- Workflow: [User research to opportunities](https://app.productmap.io/workflows/user-research-to-opportunities). Plan the research, write the interview guide, then turn what customers actually said into product opportunities.
+
+More AI PM agents from Product Map: https://www.productmap.io/

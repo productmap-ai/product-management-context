@@ -19,3 +19,11 @@ description: Synthesizes interviews, needfinding notes, and UX research into the
 ## Delegation
 
 Use [subagent-prompt.md](subagent-prompt.md) for a sub-agent focused on long-context qualitative synthesis.
+
+## Related on Product Map
+
+- Agent: [Product discovery to solution](https://app.productmap.io/agents/product-discovery-ideation). Generate ideas for MVP and growth strategies.
+- Agent: [Plan and run user research](https://app.productmap.io/agents/user-research-planner). Pick the right method and build a research plan.
+- Workflow: [User research to opportunities](https://app.productmap.io/workflows/user-research-to-opportunities). Plan the research, write the interview guide, then turn what customers actually said into product opportunities.
+
+More AI PM agents from Product Map: https://www.productmap.io/

@@ -166,3 +166,10 @@ Output format (Markdown), in this exact order:
 - Decision log uses ADR-style fields, includes alternatives, and explains consequences/tradeoffs.
 - Open questions are prioritized and mapped to an owner and a by-date (`YYYY-MM-DD`).
 - “Repo paths referenced” lists all sources consulted (starting with `.productmap/index.md`).
+
+## Related on Product Map
+
+- Agent: [Scope and challenge MVP](https://app.productmap.io/agents/mvp-scope-decision). Cut scope, build the backlog, pick the stack.
+- Workflow: [Product idea to MVP scope](https://app.productmap.io/workflows/product-idea-to-mvp-scope). Challenge the product idea, set the strategy and roadmap, then cut the MVP down to what proves your positioning.
+
+More AI PM agents from Product Map: https://www.productmap.io/

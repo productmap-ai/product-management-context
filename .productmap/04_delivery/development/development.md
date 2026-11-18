@@ -32,3 +32,5 @@ Fill in this context file with the **[Write PRD and feature spec](https://app.pr
 - [09_templates/adr-template.md](../../09_templates/adr-template.md)
 - [09_templates/api-doc-template.md](../../09_templates/api-doc-template.md)
 - [04_delivery/backlog-requirements/prioritization.md](../backlog-requirements/prioritization.md)
+
+More AI PM agents from Product Map: https://www.productmap.io/

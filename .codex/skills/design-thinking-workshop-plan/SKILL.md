@@ -166,3 +166,10 @@ Also include two variants:
 - Output artifacts are specific, have owners, completion criteria, and due dates (`YYYY-MM-DD`).
 - References repo knowledge with clickable paths (at minimum `.productmap/index.md`; optional tools pages).
 - Follow-up plan turns workshop outputs into next actions (decisions, experiments, PRD inputs).
+
+## Related on Product Map
+
+- Agent: [Product discovery to solution](https://app.productmap.io/agents/product-discovery-ideation). Generate ideas for MVP and growth strategies.
+- Agent: [Enable team collaboration](https://app.productmap.io/agents/team-collaboration-leadership). Improve how teams lead and communicate.
+
+More AI PM agents from Product Map: https://www.productmap.io/

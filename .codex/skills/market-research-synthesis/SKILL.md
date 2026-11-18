@@ -107,3 +107,10 @@ Output format (Markdown):
 - Implications are decision-oriented (what we should do next) and match the decision context.
 - TODO list is prioritized and each item states why it matters and how to obtain it.
 - “Repo paths referenced” lists the `.productmap/**` files actually used.
+
+## Related on Product Map
+
+- Agent: [Run market research](https://app.productmap.io/agents/market-research). Size the market, pick a segment, scan the forces.
+- Workflow: [Market research to positioning](https://app.productmap.io/workflows/market-research-to-positioning). Size the market, map the competitors buyers compare you with, then turn the gaps into a value proposition and positioning.
+
+More AI PM agents from Product Map: https://www.productmap.io/

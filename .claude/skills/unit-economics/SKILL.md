@@ -354,3 +354,10 @@ Use **absolute dates** (`YYYY-MM-DD`) on artifacts.
 - Navigation index: `.productmap/index.md`
 
 If local `_overview.md` content conflicts with generic benchmarks, **prefer the repo** and note the delta explicitly.
+
+## Related on Product Map
+
+- Agent: [Calculate unit economics](https://app.productmap.io/agents/unit-economics). Model LTV, CAC, and contribution margin.
+- Agent: [Define monetization strategy](https://app.productmap.io/agents/monetization-pricing). Pick the right model, pricing, and packaging.
+
+More AI PM agents from Product Map: https://www.productmap.io/

@@ -32,3 +32,5 @@ Fill in this context file with the **[Calculate unit economics](https://app.prod
 
 - [03_analysis/finance/finance.md](../finance/finance.md)
 - [02_generation/growth-sales/growth-sales.md](../../02_generation/growth-sales/growth-sales.md)
+
+More AI PM agents from Product Map: https://www.productmap.io/

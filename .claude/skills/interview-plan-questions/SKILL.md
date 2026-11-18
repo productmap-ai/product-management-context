@@ -310,3 +310,10 @@ Include a short "Watch out for" block at the end of the guide:
 - They are speaking in generalities ("usually", "always", "everyone") — anchor with "When did that last happen?"
 - You feel reassured but have no concrete facts — the questions were too safe.
 - You leave without a clear next step — always end with a commitment ask or referral.
+
+## Related on Product Map
+
+- Agent: [Plan customer interviews](https://app.productmap.io/agents/customer-interview-planner). Get a problem, solution, or PMF interview plan.
+- Workflow: [User research to opportunities](https://app.productmap.io/workflows/user-research-to-opportunities). Plan the research, write the interview guide, then turn what customers actually said into product opportunities.
+
+More AI PM agents from Product Map: https://www.productmap.io/

@@ -107,3 +107,5 @@ Fill in this context file with the **[Validate startup idea](https://app.product
 - [product-vision.md](./product-vision.md)
 - [../../01_strategy/segmentation/segmentation.md](../../01_strategy/segmentation/segmentation.md)
 - [../../08_frameworks/jobs-to-be-done.md](../../08_frameworks/jobs-to-be-done.md)
+
+More AI PM agents from Product Map: https://www.productmap.io/

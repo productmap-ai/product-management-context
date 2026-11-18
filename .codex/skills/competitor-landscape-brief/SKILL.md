@@ -155,3 +155,11 @@ End with: “Open questions for the requester” (3–8 questions).
 - Messaging hooks avoid unsubstantiated claims and include objection handling.
 - Risks include: stale info risk, segment mismatch risk, legal/compliance messaging risk, and “we might be the same” risk.
 - Ends with crisp follow-up questions that could change strategy or positioning.
+
+## Related on Product Map
+
+- Agent: [Run competitor analysis](https://app.productmap.io/agents/competitor-analysis). Map competitors, score the matrix, find your edge.
+- Agent: [Build unique value proposition](https://app.productmap.io/agents/value-proposition-positioning). Nail your value proposition and positioning.
+- Workflow: [Market research to positioning](https://app.productmap.io/workflows/market-research-to-positioning). Size the market, map the competitors buyers compare you with, then turn the gaps into a value proposition and positioning.
+
+More AI PM agents from Product Map: https://www.productmap.io/
